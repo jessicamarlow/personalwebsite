@@ -1,12 +1,32 @@
 <template>
   <div class="row">
-    <div class="col-sm-3">
-      Plenty of room for funsies
+    <h3>My Interests</h3>
+    <div class="col-md-4"></div>
+    <div class="col-md-4">
+      <carousel :perPage=1>
+        <slide>
+          <img src="../assets/computer_science.jpg" alt="Computer Science" width="100%">
+        </slide>
+        <slide>
+          <img src="../assets/tomato-red-pepper-soup-sl.jpg" alt="Tomato Soup" width="100%">
+        </slide>
+        <slide>
+          <img src="../assets/honey-cream-fries.jpg" alt="Fries" width="100%">
+        </slide>
+        <slide>
+          <img src="../assets/white_chocolate.jpg" alt="White Chocolate" width="100%">
+        </slide>
+        <slide>
+          <img src="../assets/apple_cookie.jpg" alt="Apple Cookies" width="100%">
+        </slide>
+        <slide>
+          <img src="../assets/garlic.jpg" alt="Garlic" width="100%">
+        </slide>
+      </carousel>
     </div>
-    <div class="col-sm-9">
-      More funsies
-    </div>
+    <div class="col-md-4"></div>
   </div>
+
 </template>
 <style>
 .noindent { margin: 0; padding: 0; }

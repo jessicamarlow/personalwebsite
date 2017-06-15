@@ -22,6 +22,11 @@
             <p>
               Zebras are really cool.
             </p>
+
+            <p>
+              In addition to my love of garlic, I really enjoy a good plate of fries only made from potatoes not
+              sweet potatoes. 
+            </p>
           </div>
           <div class="col-sm-5">
             <img src="../assets/Jessica_1.jpg" alt="I like chikn nugits" width="100%">

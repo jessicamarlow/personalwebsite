@@ -6,8 +6,10 @@ import Fun from "./components/Fun.vue";
 import Contact from "./components/Contact.vue";
 import VueRouter from "vue-router";
 import VueResource from "vue-resource";
+import VueCarousel from 'vue-carousel';
 Vue.use(VueResource);
 Vue.use(VueRouter);
+Vue.use(VueCarousel);
 
 const routes = [
   {path: '/', component: Home},
