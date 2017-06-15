@@ -11,12 +11,6 @@
           <img src="../assets/tomato-red-pepper-soup-sl.jpg" alt="Tomato Soup" width="100%">
         </slide>
         <slide>
-          <img src="../assets/honey-cream-fries.jpg" alt="Fries" width="100%">
-        </slide>
-        <slide>
-          <img src="../assets/white_chocolate.jpg" alt="White Chocolate" width="100%">
-        </slide>
-        <slide>
           <img src="../assets/apple_cookie.jpg" alt="Apple Cookies" width="100%">
         </slide>
         <slide>

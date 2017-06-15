@@ -1,6 +1,4 @@
 # production build
-npm run build
-
 cd ../jessicamarlow.github.io
 git rm -rf .
 git clean -fxd
