@@ -7,20 +7,15 @@
             <h2>Hi!</h2>
 
             <p>
-              I'm Jessica. I'm a freshman attending Duke University. I really like pink fluffy unicorns and baby zebras.
+              I'm Jessica. I'm a rising sophomore attending Duke University.
             </p>
 
             <p>
-              I'm currently a global health major and am looking forward to a life of unemployment. It's so exciting!
+              I'm currently a global health major graduating in 2020. I'm also a fellow at <a href="http://sites.fhi.duke.edu/storylab/">Duke StoryLab</a> directed by Professor Eileen Chow.
             </p>
 
             <p>
-              My favorite food is garlic. In case you are a recruiter for a company, please please please reach out to
-              me. You'll totally not ever regret it.
-            </p>
-
-            <p>
-              Zebras are really cool.
+              I also really enjoy food and baking. Check out my Fun page for more!
             </p>
             
           </div>
